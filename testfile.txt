@@ -9,3 +9,4 @@ git log -> 저장내역 확인
 git remote add -> 로컬과 원격저장소를 연결
 git push -> 원격에 로컬 변경을 반영
 
+add 후 수정?
