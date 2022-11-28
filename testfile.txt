@@ -1,1 +1,11 @@
 첫번째 commit
+
+git init -> git 저장소 생성
+git config -> 사용자 이름과 이메일 설정
+git add -> 파일 변경내역 추가
+git status -> 현재 작업 내역 확인
+git commit -> 변경내역을 저장소에 반영
+git log -> 저장내역 확인
+git remote add -> 로컬과 원격저장소를 연결
+git push -> 원격에 로컬 변경을 반영
+
